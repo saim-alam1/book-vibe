@@ -23,4 +23,4 @@ const addToStoredData = (id) => {
   }
 }
 
-export { addToStoredData };
+export { addToStoredData, getStoredData };
